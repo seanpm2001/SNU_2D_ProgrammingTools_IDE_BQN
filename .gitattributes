@@ -33,6 +33,7 @@
 *.css linguist-documentation=false
 *.css linguist-language=CSS
 # BQN source file
+# Making a new push, as the language is now recognized by GitHub (2024, December 25th)
 *.bqn linguist-detectable=true
 *.bqn linguist-documentation=false
 *.bqn linguist-language=BQN
@@ -171,7 +172,7 @@
 # File info
 
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2024, Monday, May 6th at 2:04 pm PST)
-# Line count (including blank lines and compiler line): 178
+# File version: 6 (2024, Wednesday, December 25th at 10:39 pm PST)
+# Line count (including blank lines and compiler line): 179
 
 # End of script
